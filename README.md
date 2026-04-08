@@ -1,4 +1,3 @@
-# Ecommerce-Sales-Dashboard
 # Ecommerce Sales Dashboard | YTD Sales Analysis
 
 ## Project Overview
