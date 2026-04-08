@@ -25,7 +25,7 @@ Dataco sales dataset
 - Market-wise Customer Acquisition per Month
 
 ## Dashboard Preview
-![Ecommerce Sales Dashboard](images/ecommerce-sales-dashboard.png)
+![Ecommerce Sales Dashboard](Images/Ecommerce Sales Dashboard.png)
 
 ## Live Dashboard
 [View Interactive Tableau Dashboard](https://public.tableau.com/views/EcommerceSalesDashboard_17756128293440/EcommerceSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
